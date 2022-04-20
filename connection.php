@@ -1,3 +1,6 @@
+//King Duncan Software Solution
+//Connection creation
+<!--Student Enrolment System Using PHP --!>
 <?php
 $king1 = mysqli_connect('localhost','root','','collegedb');
 //if (!$king1) {
